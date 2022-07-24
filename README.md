@@ -5,7 +5,8 @@ Blogger is a site that helps you read useful articles that vary in all fields as
 
 - A control panel to control the content of the site.
 - Results can be filtered by categories.
-- Comments can be added to all articles
+- Comments can be added to all articles.
+- Using Clean Architecture.
 
 ## Requirements
 
