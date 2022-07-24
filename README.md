@@ -22,6 +22,7 @@ Blogger is a site that helps you read useful articles that vary in all fields as
 php artisan serve 
 ```
 
+## Structure
 
 <div align="center">
   <img src="https://github.com/Mohamed-Abuelezz/Blogger/blob/main/ScreensShots/Directory%20Structures%20ScreensShots/foldrsStructure.PNG" width="800" height="300"/>
